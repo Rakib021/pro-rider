@@ -7,18 +7,18 @@ var Riders =
             
             data: [
                 {
-                    driverName: "Jhon",
-                    fare: 50,
+                    driverName: "Sarif",
+                    fare: 40,
                     status: 1,
                 },
                 {
-                    driverName: "Jhon",
-                    fare: 50,
+                    driverName: "Sarif",
+                    fare: 40,
                     status: 1,
                 },
                 {
-                    driverName: "Jhon",
-                    fare: 50,
+                    driverName: "Sarif",
+                    fare: 40,
                     status: 1,
                 }
             ]
@@ -29,18 +29,18 @@ var Riders =
             "imageURL": "https://365psd.com/images/previews/204/red-car-vector-graphics-eps-59011.jpg",
             data: [
                 {
-                    driverName: "Jack",
-                    fare: 60,
+                    driverName: "Karim",
+                    fare: 70,
                     status: 4,
                 },
                 {
-                    driverName: "Jack",
-                    fare: 60,
+                    driverName: "Karim",
+                    fare: 70,
                     status: 4,
                 },
                 {
-                    driverName: "Jack",
-                    fare: 60,
+                    driverName: "Karim",
+                    fare: 70,
                     status: 4,
                 }
             ]
@@ -51,17 +51,17 @@ var Riders =
             "imageURL": "https://images.all-free-download.com/images/graphicthumb/creative_bus_design_vector_542753.jpg",
             data: [
                 {
-                    driverName: "Mike",
+                    driverName: "Rahim",
                     fare: 67,
                     status: 12,
                 },
                 {
-                    driverName: "Mike",
+                    driverName: "Rahim",
                     fare: 67,
                     status: 12,
                 },
                 {
-                    driverName: "Mike",
+                    driverName: "Rahim",
                     fare: 67,
                     status: 12,
                 }
@@ -73,18 +73,18 @@ var Riders =
             "imageURL": "https://www.freevector.com/uploads/vector/preview/3803/FreeVector-Vector-Train-Cartoon.jpg",
             data: [
                 {
-                    driverName: "Max",
-                    fare: 65,
+                    driverName: "Rohomot",
+                    fare: 55,
                     status: 18,
                 },
                 {
-                    driverName: "Max",
-                    fare: 65,
+                    driverName: "Rohomot",
+                    fare: 55,
                     status: 18,
                 },
                 {
-                    driverName: "Max",
-                    fare: 65,
+                    driverName: "Rohomot",
+                    fare: 55,
                     status: 18,
                 }
             ]

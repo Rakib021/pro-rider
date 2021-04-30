@@ -9,6 +9,7 @@ import './App.css';
 import Blog from "./components/Blog/Blog";
 import Contact from "./components/Conatact/Contact";
 import Destination from "./components/Destination/Destination";
+import Footer from "./components/Footer/Footer";
 import Header from "./components/Header/Header";
 import Home from './components/Home/Home';
 import Login from "./components/Login/Login";
@@ -43,6 +44,7 @@ function App() {
                     <Login/>
               </Route>
               <Route exact path="/">
+                <Footer></Footer>
                 <Home/>
               </Route>
           </Switch>
