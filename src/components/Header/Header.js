@@ -20,7 +20,7 @@ const Header = () => {
         <Link className="nav-link" to="/contact">Contact</Link>
         <Link className="nav-link" to="/login">Login</Link>
         <li className="nav-item">
-          <button className="btn btn-danger"onClick={() => setLoggedInUser({})} > Sign out </button>
+          <button className="btn btn-success"onClick={() => setLoggedInUser({})} > Sign out </button>
         </li>
       </div>
     </div>
