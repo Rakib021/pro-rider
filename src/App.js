@@ -22,9 +22,11 @@ function App() {
   const [loggedInUser, setLoggedInUser] = useState({});
   return (
     <UserContext.Provider value={[loggedInUser, setLoggedInUser]}>
+       <div className="content-wrap">
          <Router> 
           <Header/>
           <Switch>
+           
               <Route path="/home">
                 <Home/>  
               </Route>
@@ -44,11 +46,13 @@ function App() {
                     <Login/>
               </Route>
               <Route exact path="/">
-                <Footer></Footer>
+                
                 <Home/>
               </Route>
           </Switch>
         </Router>
+        </div>
+        <Footer></Footer>
       </UserContext.Provider>
   );
 }
